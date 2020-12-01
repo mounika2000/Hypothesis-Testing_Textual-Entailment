@@ -1,4 +1,5 @@
 # Hypothesis-Testing_Textual-Entailment
+## Natural Language Processing
 ## Overview
 The project is synonymous to Hypothesis testing. It is an application of natural language processing, where for a given pair of sentences, we verify whether the facts in the first sentence imply the facts in the second sentence. The first sentence is always considered to be true.This entailment between these two sentences can be Positive, Neutral, Negative.  
 Positive can also be called entailment.  
